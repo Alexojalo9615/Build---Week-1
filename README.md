@@ -33,6 +33,10 @@ This is a static frontend project created during Build Week.
     - Loading questions, collecting answers, and managing quiz flow
     - Calculating and rendering final results with animations and stats
 
-## Zip Project
+## 🧷 Zip Project
 
 [Build-Week-1-main.zip](https://github.com/user-attachments/files/21514270/Build-Week-1-main.zip)
+
+## 🧪 How to run the project
+
+
