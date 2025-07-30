@@ -37,6 +37,24 @@ This is a static frontend project created during Build Week.
 
 [Build-Week-1-main.zip](https://github.com/user-attachments/files/21514270/Build-Week-1-main.zip)
 
+
 ## 🧪 How to run the project
+
+**Extract the zip**
+- Download and unzip "Build-Week-1-main"
+- Choose an easy location, such as the Desktop
+
+**Open Powershell and navigate to the folder**
+- Open Powersheel and run: "C:\Users\(yourname)\Desktop\Build-Week-1-main"
+
+**Install http-server (if needed)**
+- npm install -g http-server
+
+**Run the local server**
+- Install the project folder, run: "http-server ."
+
+**Open the browser**
+- You will see output like: "http://127.0.0.1.8080
+- You can now visit the link in your browser to view the project
 
 
