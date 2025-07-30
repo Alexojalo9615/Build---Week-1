@@ -1,5 +1,6 @@
 # 🌱 Build Week 1
 Build Week 1 is a team project, in this case involving 6 people, where each member was responsible for a specific part. I was specifically in charge of the timer functionality.
+This is a static frontend project created during Build Week.
 
 ## 🚀 Tech Stack
 - **Front-end:** JavaScript, CSS3, HTML5
@@ -31,3 +32,7 @@ Build Week 1 is a team project, in this case involving 6 people, where each memb
     - Starting and updating the animated timer
     - Loading questions, collecting answers, and managing quiz flow
     - Calculating and rendering final results with animations and stats
+
+## Zip Project
+
+
